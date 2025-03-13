@@ -35,3 +35,8 @@ To delete your account and associated data, go to Settings > Delete Account or c
             
 8. Changes to Privacy Policy
 We may update this policy periodically. Continued use of Connections means you accept any changes.
+
+
+9. Child Sexual Abuse and Exploitation (CSAE) Policy
+
+Connection strictly prohibits any content that involves child sexual abuse or exploitation. We do not tolerate any form of child abuse, and any such content will be reported to the appropriate authorities. If you come across any such material, please report it immediately via [your contact email]. We comply with all applicable laws and cooperate with law enforcement agencies to prevent and combat child exploitation.
